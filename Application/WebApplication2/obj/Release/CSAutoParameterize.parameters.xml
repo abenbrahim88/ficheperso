@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="dbcontext-Web.config Connection String" description="dbcontext Connection String used in web.config by the application to access the database." defaultValue="data source=itesciawebservices.database.windows.net;initial catalog=api;persist security info=True;user id=webservices;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\hostname\\Downloads\\Application\\WebApplication2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dbcontext']/@connectionString" />
+  </parameter>
+</parameters>
