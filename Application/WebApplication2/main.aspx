@@ -140,7 +140,7 @@
 <script src="Content/adminlte/components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
 <!-- AdminLTE App -->
 <script src="Content/adminlte/js/adminlte.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCpRFQAJ6xyFUffpRdchiVF1lkm_SM7m8E"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key="></script>
     <script src="Scripts/main.js"></script>
 </body>
 </html>
